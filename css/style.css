@@ -6,3 +6,39 @@
 		padding-right:35%;
 
 }
+
+.icon-timeline {
+	font-size: 32px;
+	margin-left: 20%;
+	margin-top: 20%;
+	color: #f2f2f2;
+}
+
+
+/* CSS SECTION PORTAFOLIO */
+
+.portafolio {
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.image-portafolio {
+
+	border: 1px solid #afafaf;
+	border-radius: 3px 3px 0px 0px;
+}
+
+.information-portafolio {
+	color: #555;
+	width: 100%;
+	padding: 10px;
+	background-color: #fff;
+	border: 1px solid #afafaf;
+	border-top: 0px;
+}
+
+
+.text-uppercase {
+	text-transform: uppercase;;
+}
